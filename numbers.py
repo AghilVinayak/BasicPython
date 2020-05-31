@@ -16,4 +16,3 @@ print(pow(4,6))
 print(min(4,6))
 print(round(3.4))
 print(round(3.7))
-
